@@ -1,0 +1,20 @@
+Prompt: Which planet is known as the Red Planet?
+Option A: Earth
+Option B: Mars
+Option C: Jupiter
+Option D: Venus
+Correct Answer: B
+
+Prompt: Who wrote the play 'Romeo and Juliet'?
+Option A: Charles Dickens
+Option B: Mark Twain
+Option C: William Shakespeare
+Option D: George Orwell
+Correct Answer: C
+
+Prompt: What is the chemical symbol for water?
+Option A: CO2
+Option B: H2O
+Option C: O2
+Option D: H2SO4
+Correct Answer: B
