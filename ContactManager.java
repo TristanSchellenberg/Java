@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Address {
+public class ContactManager {
     static ArrayList<ContactInfo> contactList = new ArrayList<>();
     static Scanner scanner = new Scanner(System.in);
 
