@@ -1,5 +1,5 @@
 # Java-Practice
-I uploaded all of these projects together from my Codio IDE to showcase my Java learning journey and enhance my resume.
+I uploaded all of these projects simultaneously from my Codio IDE to showcase my Java learning journey and enhance my resume.
 
 1. Todo List App
 This was one of my first Java projects, where I built a simple console-based To-Do List application. The user could add, remove, and view tasks on their list, acting like a super-basic version of a productivity app. It was straightforward, but it helped me get more comfortable with managing data and user input.
